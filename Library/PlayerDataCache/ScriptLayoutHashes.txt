@@ -1,0 +1,12 @@
+OSXStandalone
+PlayerPath?
+/Users/DAC/Documents/UnityProjects/AssetBundleTest/New Unity Project/Assets/AssetBundles/1.2
+SceneListBegin?
+Assets/Scenes/v1.unity
+SceneListEnd?
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+a2313de45ed47f1a12bb2d80e8b2de54 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+769e576fcd3f60fa29a2cccb9e8127d9 UnityEngine.UI.dll:UnityEngine.UI.Text
+0b0399c4b7b49c440fa718ace4ac585a UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.v1
